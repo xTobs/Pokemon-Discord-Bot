@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "MTQ0NTg0NzQ2ODE3NTUyODEwMQ.GbAZU2.4USemlSJJ8OvlItk-BPdso6SBfMOnlfzb82G0E"
+TOKEN = "MTQ0NTg0NzQ2ODE3NTUyODEwMQ.Gpcdk5.6WE7QfMYEZcws6bxmckgH7QJa0_vAkT2c8qDZc"
 GUILD_ID = 474644609109065748  # Deine Server-ID
 VOICE_CHANNEL_ID = 1445876406658662483  # ID des Voice-Channels
 
